@@ -1,0 +1,9 @@
+# .editorconfig について詳しくは、次をご覧ください https://aka.ms/editorconfigdocs
+root = true
+
+# All files
+[*]
+indent_style = space
+
+[*.cs]
+charset = utf-8-bom
